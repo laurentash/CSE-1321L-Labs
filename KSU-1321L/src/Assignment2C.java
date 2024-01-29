@@ -1,3 +1,10 @@
+//..Class: CSE 1321L
+//Section: Wj1
+//Term: Spring 2024
+//Instructor: Deekshitha Atti.
+//Name: Lauren Shockley
+// Assignment 2 C
+
 import java.util.Scanner;
 public class Assignment2C {
 
